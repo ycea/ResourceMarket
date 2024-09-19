@@ -1,0 +1,10 @@
+D:\Projects\С#\ResourceMarket\ResourceMarket\bin\Release\ResourceMarket.exe.config
+D:\Projects\С#\ResourceMarket\ResourceMarket\bin\Release\ResourceMarket.exe
+D:\Projects\С#\ResourceMarket\ResourceMarket\bin\Release\ResourceMarket.pdb
+D:\Projects\С#\ResourceMarket\ResourceMarket\obj\Release\ResourceMarket.csproj.AssemblyReference.cache
+D:\Projects\С#\ResourceMarket\ResourceMarket\obj\Release\ResourceMarket.MainForm.resources
+D:\Projects\С#\ResourceMarket\ResourceMarket\obj\Release\ResourceMarket.Properties.Resources.resources
+D:\Projects\С#\ResourceMarket\ResourceMarket\obj\Release\ResourceMarket.csproj.GenerateResource.cache
+D:\Projects\С#\ResourceMarket\ResourceMarket\obj\Release\ResourceMarket.csproj.CoreCompileInputs.cache
+D:\Projects\С#\ResourceMarket\ResourceMarket\obj\Release\ResourceMarket.exe
+D:\Projects\С#\ResourceMarket\ResourceMarket\obj\Release\ResourceMarket.pdb
