@@ -1,7 +1,7 @@
 <h1>Описание</h1>
 <p>Симулятор торговли ресурсами. Есть изначальный баланс и исходя динамики изменения цен и новостей вкладывать и приумножать свой капитал.</p>
 <h2>Как установить?</h2>
-1. [Установить архив](https://github.com/user-attachments/files/17053687/ResourceMarket.zip)
+1. Установить архив https://github.com/user-attachments/files/17053687/ResourceMarket.zip
 2. Распаковать архив.
 3. Запустить ResourceMarket.exe 
 
